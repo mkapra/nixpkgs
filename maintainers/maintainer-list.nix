@@ -17301,6 +17301,11 @@
     githubId = 16974598;
     name = "Mike Playle";
   };
+  mkapra = {
+    github = "mkapra";
+    githubId = 34742358;
+    matrix = "@mkapra:kapra.de";
+  };
   mkez = {
     email = "matias+nix@zwinger.fi";
     github = "mk3z";
